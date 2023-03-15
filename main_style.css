@@ -1,0 +1,56 @@
+
+
+body{  
+    font-family: 'Syne', sans-serif;
+    background-image: url('https://pbs.twimg.com/media/FHF3y-BXIAU4IGd?format=jpg&name=large');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+  
+  
+  h1{
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+    font-family: 'Syne', sans-serif;
+  }
+  
+  
+  .links{
+    text-align: center;
+    padding-top: 10px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+  
+  a{
+    color: white;
+    font-size: x-large;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    color: gray;
+    text-decoration: none;
+  }
+  
+  
+  .info{
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .info h3{
+    font-size: x-large;
+  }
+  
+  h3{
+    font-size: xx-large;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  
+  
