@@ -2,10 +2,10 @@
 
 body{  
     font-family: 'Times New Roman';
-    background-color: #eff1f0;
+    background-color: #6f6862;
     background-repeat: no-repeat;
     background-size: cover;
-    color: #496a7b;
+    color: #e0dfdd;
 }
   
   
@@ -23,13 +23,13 @@ h1{
 }
   
 a{
-    color: #496a7b;
+    color: #e0dfdd;
     font-size: x-large;
     text-decoration: none;
 }
   
 a:hover{
-    color: white;
+    color: black;
     text-decoration: none;
 }
   
