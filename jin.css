@@ -79,8 +79,17 @@ h3{
 .text .q{
     font-size: 25px;
 }
+
+.thoughts{
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+}
   
 .readmore{
     font-style: italic;
     font-size: large;
+}
+
+.quote{
+    font-family: 'Syne', sans-serif;
 }
