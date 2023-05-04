@@ -53,4 +53,9 @@ body{
   }
   
   
-  
+@media only screen and (max-width: 767px){
+  body{
+    background-image: url('https://pbs.twimg.com/media/FHF3y-BXIAU4IGd?format=jpg&name=large');
+    background-size: cover;
+  }
+}
