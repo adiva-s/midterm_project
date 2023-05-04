@@ -53,9 +53,9 @@ body{
   }
   
   
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 768px){
   body{
-    background-image: url(tester_background.pngg);
+    background-image: url(tester_background.png);
     background-size: cover;
   }
 }
